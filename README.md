@@ -1,2 +1,2 @@
 # Spotify-clone
-This website is a simple clone of Spotify.
+This website is a simple clone of Spotify..
